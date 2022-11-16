@@ -55,3 +55,6 @@ mkdir biatch/ && cd biatch/ && git clone https://github.com/delltaxa/biatch/ && 
 if you cat the biatch file (not the python script)
 you can see that it's running biatch.py with some configuration
 you can change that configuration with what you like!
+
+
+![image](https://user-images.githubusercontent.com/114283067/202279866-a75c686b-c104-4f64-ae4c-67d2ed930b5d.png)
