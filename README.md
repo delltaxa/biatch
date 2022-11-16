@@ -47,7 +47,7 @@ run the server with the preconfigured config
 oneliner
 
 ```
-mkdir biatch/ && cd biatch/ && git clone https:/github.com/delltaxa/biatch/ && cd biatch/ && chmod +x ./biatch && ./biatch
+mkdir biatch/ && cd biatch/ && git clone https://github.com/delltaxa/biatch/ && cd biatch/ && chmod +x ./biatch && ./biatch
 ```
 
 # Usage
